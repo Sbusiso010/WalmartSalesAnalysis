@@ -1,5 +1,15 @@
 # WalmartSalesAnalysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Purpose of the Project](#purpose-of-the-project)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Analysis Areas](#analysis-areas)
+- [Approach Utilized](#approach-utilized)
+- [Business Questions To Address](#business-questions-to-address)
+- [SQL Code](#sql-code)
+
 ### Project Overview
 This project aims to dive deep into the Walmart Sales data to uncover insights about the top-performing branches and products. I'll analyze sales trends across different product categories and customer behavior patterns. The goal is to identify areas where sales strategies can be improved and optimized for better performance. The dataset, sourced from the [Walmart Sales Forecast](https://kaggle.com), provides a rich foundation for my analysis. By studying this data, I aim to develop actionable recommendations that will help refine sales approaches and boost overall business outcomes for Walmart.
 
@@ -89,7 +99,7 @@ Gross Margin is gross profit expressed in percentage of the total(gross profit/r
 
 $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
-###SQL Code
+### SQL Code
 - For the rest of the code, [View SQL Data](Data.sql)
  file
 
