@@ -90,7 +90,8 @@ Gross Margin is gross profit expressed in percentage of the total(gross profit/r
 $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
 ###SQL Code
-- For the rest of the code, check the file
+- For the rest of the code, [View SQL Data](data.sql)
+ file
 
 
 ```sql
